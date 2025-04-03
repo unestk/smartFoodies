@@ -1,3 +1,6 @@
+# SmartFoodies
+🚀 This project is being developed together with Dominykas Bartauskas (https://github.com/DominykasBartauskas)
+
 ## Getting Started
 ### 1. Clone the repository
 ```
